@@ -10,7 +10,7 @@ namespace Week4Practice.Controllers
     public class IfController : ApiController
     {
         /// <summary>
-        /// Computes the cost of a wedding plan
+        /// Computes the cost of a wedding plan. An extra description here
         /// </summary>
         /// <returns>If the wedding is under or over budget</returns>
         /// <param name="Budget">The overall budget for the wedding in $CAD</param>
